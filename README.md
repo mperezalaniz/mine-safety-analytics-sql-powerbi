@@ -10,7 +10,7 @@ reporte de 5 páginas en **Power BI** orientado a decisiones de prevención.
 > exposure-adjusted KPIs (per 200,000 hours worked) → 5-page Power BI report. Built by an occupational health & HSE
 > professional with 5 years in large-scale mining.*
 
-![Portada](docs/img/slide_01.png)
+<p align="center"><img src="docs/img/slide_01.png" width="420" alt="Portada"></p>
 
 ---
 
@@ -38,7 +38,7 @@ reporte de 5 páginas en **Power BI** orientado a decisiones de prevención.
 3. **Gestión de riesgos críticos** — transporte motorizado y maquinaria son pocos casos pero la mayoría de las muertes.
 4. **Salud ocupacional para trabajadores veteranos** — ergonomía, vigilancia médica y reintegro laboral.
 
-![Recomendaciones](docs/img/slide_09.png)
+<p align="center"><img src="docs/img/slide_09.png" width="420" alt="Recomendaciones"></p>
 
 ---
 
